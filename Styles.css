@@ -1,0 +1,90 @@
+#Header {
+	border: 3px solid White;
+	width: 100%;
+	height: 100px;
+	background-image: url("background.png");
+}
+#Menu {
+	background-image: url("background2.png");
+	width: 100%;
+	height: 50px;
+	margin-top: 35px;
+}
+#menutable {
+	height: 100%;
+	width: 100%;
+	color: White;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+#menutable td:hover{
+	background-image: url("background.png");
+	background-position: center;
+	color: White;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+	border-radius: 10px;
+	border: 3px solid White;
+}
+#menup {
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	text-align: center;
+	height: 100%;
+	width: 100%;
+}
+#Content_Left {
+	border: 3px solid White;
+	width: 79%;
+	height: 400px;
+	float: left;
+	margin-top: 35px;
+	background-image: url("background.png");
+}
+#Content_Right {
+	border: 3px solid White;
+	width: 20%;
+	height: 400px;
+	float: right;
+	margin-top: 35px;
+	background-image: url("background.png");
+}
+#Footer {
+	border: 3px solid White;
+	width: 100%;
+	height: 100px;
+	float: left;
+	margin-top: 35px;
+	background-image: url("background.png");
+	background-position: center;
+}
+#Wrapper {
+	min-width: 600px;
+	width: 100%;
+}
+p {
+	color: White;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+}
+#left {
+	color: White;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: 'Raleway', sans-serif;
+	margin-left: 27%;
+}
+body {
+	background-image: url("background2.png");
+}
+#steamlogo {
+	margin-left: 52.5%;
+}
+#supremelogo {
+	margin-left: 40px;
+}
